@@ -1,0 +1,9 @@
+node_modules/
+.get
+public/
+config.env
+config/
+gitlab_ssh
+gitlab_ssh.pub
+.vscode
+config/config.json
